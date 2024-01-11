@@ -30,7 +30,7 @@ This project focuses on predicting stock trends using LSTM, a type of recurrent 
 
 ## Website
 
-Explore the live version of the project on [[project website link](https://stock-prediction-f01l.onrender.com/)].
+Explore the live version of the project on [https://stock-prediction-f01l.onrender.com/].
 
 ## Steps to Run the Project
 
