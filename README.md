@@ -10,14 +10,10 @@ This project focuses on predicting stock trends using LSTM, a type of recurrent 
 
 ![LSTM](https://github.com/m-rishab/Stock-Trend-Prediction-LSTM-/assets/113618652/876dfa80-d26e-4eb8-bab6-ccf3104f2e7d)
 
-## Dataset
-
-The historical stock data used for this project can be found in the [dataset link](insert_dataset_link_here). Ensure the dataset includes relevant features for stock price prediction.
-
 ## Steps to Implement LSTM Model
 
 1. **Data Collection:**
-   - Automatically fetch historical stock data using Python libraries.
+   - Utilize `yfinance` to dynamically fetch historical stock data based on start and end dates. `yfinance` is a convenient Python library that provides access to Yahoo Finance data.
 
 2. **Data Preprocessing:**
    - Clean and preprocess the data, handling missing values and scaling if necessary.
@@ -31,13 +27,12 @@ The historical stock data used for this project can be found in the [dataset lin
 5. **Prediction:**
    - Use the trained model to predict future stock prices.
 
-## Project Demo
-
-[Include a link or GIF demonstrating the project in action.]
 
 ## Website
 
-Explore the live version of the project on [project website link].
+Explore the live version of the project on [[project website link](https://stock-prediction-f01l.onrender.com/)].
+
+## Steps to Run the Project
 
 ## Steps to Run the Project
 
