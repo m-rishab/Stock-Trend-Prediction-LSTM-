@@ -8,8 +8,7 @@ This project focuses on predicting stock trends using LSTM, a type of recurrent 
 
 ## Flow Chart
 
-![Project Flow Chart](![LSTM](https://github.com/m-rishab/Stock-Trend-Prediction-LSTM-/assets/113618652/876dfa80-d26e-4eb8-bab6-ccf3104f2e7d)
-)
+![LSTM](https://github.com/m-rishab/Stock-Trend-Prediction-LSTM-/assets/113618652/876dfa80-d26e-4eb8-bab6-ccf3104f2e7d)
 
 ## Dataset
 
