@@ -34,8 +34,6 @@ Explore the live version of the project on [https://stock-prediction-f01l.onrend
 
 ## Steps to Run the Project
 
-## Steps to Run the Project
-
 1. Input any stock ticker.
 2. Click on predict.
 
